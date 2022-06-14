@@ -1,5 +1,5 @@
 button {
-    color: bisque;
+    color: rgb(110, 65, 10);
     margin: 20px;
     background-color: red;
 }
@@ -7,5 +7,5 @@ button {
 
 button:hover {
     color: rgb(51, 255, 0);
-    background-color: aliceblue;
+    background-color: rgb(176, 158, 19);
 }
